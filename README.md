@@ -1,0 +1,2 @@
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=ericrocha97_philanthropicmanager-mobile)](https://sonarcloud.io/summary/new_code?id=ericrocha97_philanthropicmanager-mobile)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ericrocha97_philanthropicmanager-mobile&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ericrocha97_philanthropicmanager-mobile)
